@@ -15,15 +15,16 @@ We have divided it into two.
 
 3. **Google** - Whenever you get an error, and you have thorougly gone through your work to make sure that it was not a simple spelling or syntax mistake, **Google it**. Because whoever you ask for help, that is most probably what they are going to do.
 
-  When googling make sure to start with the specific technology first then the error or problem you want to figure out. For example;
+* When googling make sure to start with the specific technology first then the error or problem you want to figure out. For example;
 
-  ```
-  Git how to delete a remote
-  ```
-  or
-  ```
-  Angular6 How to add bootstrap 4
-  ```
-  Make sure to be as specific as possible and also you can modify search to get the result for the past year only.
+ ```
+ Git how to delete a remote
+ ```
+* or
+ ```
+ Angular6 How to add bootstrap 4
+ ```
+* Make sure to be as specific as possible and also you can modify search to get the result for the past year only.
+
 
 4. **Grit** - This is the most important one of all. As a programmer your life will be 99% of the time fixing bugs. So you best be okay with that and don't give up. You'll figure it out.
