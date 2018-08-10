@@ -7,7 +7,7 @@ We have divided it into two.
 1. [Prep](https://github.com/SamNgigi/LMS-wiki/wiki/1.-PREP) 
 2. [Core](https://github.com/SamNgigi/LMS-wiki/wiki/2.-CORE)
 
-**Note** however the ***D-triple-G*** rule.
+**Note** however the ***D-triple-G*** rule. **D** for **Detail** **G** **Google** **Detail**
 
 1. **Details** - Attention to detail will be of paramount importance. Almost 90% of all errors you will face will be simple syntax mistakes or spelling mistakes. So be very careful when you type and be very thorough in your work
 
